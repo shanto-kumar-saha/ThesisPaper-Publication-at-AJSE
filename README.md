@@ -20,5 +20,5 @@ https://doi.org/10.53799/ajse.v21i1
 The paper can be downloaded from the following link:
 https://ajse.aiub.edu/index.php/ajse/article/view/308
 
-## ✅ AJSE Website Screenshot-
+## ✅ AJSE Website Publication Screenshot-
 ![Paper Screenshoot](https://github.com/shantokumarsaha123/Paper-Publication-at-AJSE/assets/122052172/3879983c-7f58-4928-821b-d2053489e572)
