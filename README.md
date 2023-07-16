@@ -19,3 +19,5 @@ https://doi.org/10.53799/ajse.v21i1
 
 The paper can be downloaded from the following link:
 https://ajse.aiub.edu/index.php/ajse/article/view/308
+
+## Website Screenshot
