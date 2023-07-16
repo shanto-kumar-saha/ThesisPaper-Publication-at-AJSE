@@ -1,4 +1,5 @@
 # Paper-Publication-at-AJSE
+<p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/Risk Identification and Analysis in Software Development in Bangladesh IT Industry: A Hybrid Model/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 This paper is my BSc Academic thesis paper which published in AIUB Journal of Science and Engineering (AJSE)
 
 Published Paper-1. AJSE Volume 21 Issue 1. 
