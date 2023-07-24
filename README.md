@@ -1,4 +1,5 @@
-# ThesisPaper-Publication-at-AJSE
+<h1 id="title" align="center">Thesis Paper Publication</h1>
+
 
 <p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/ThesisPaper-Publication-at-AJSE/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
