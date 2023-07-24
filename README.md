@@ -1,5 +1,5 @@
 # Paper-Publication-at-AJSE
-<p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/Paper-Publication-at-AJSE/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/ThesisPaper-Publication-at-AJSE/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 ## 🚀 Paper Title
 ### Risk Identification and Analysis in Software Development in Bangladesh IT Industry: A Hybrid Model
