@@ -16,11 +16,16 @@ The goal of this paper was the reduction of software risk in the Bangladesh IT I
 Published Date: (2022-10-14) 
 Published Paper-1. AJSE Volume 21 Issue 1.
 
+Paper View Link:
+https://drive.google.com/file/d/1wyFdDG7SIG1bIeKjQkqGAmEX5jxNeoSZ/view?usp=sharing
+
+<!--
 DOI Link: 
 https://doi.org/10.53799/ajse.v21i1
 
 The paper can be downloaded from the following link:
-https://ajse.aiub.edu/index.php/ajse/article/view/308
+https://ajse.aiub.edu/index.php/ajse/article/view/308 
+-->
 
 ## ✅ AJSE Website Publication Screenshot-
 ![Paper Screenshoot](https://github.com/shantokumarsaha123/Paper-Publication-at-AJSE/assets/122052172/3879983c-7f58-4928-821b-d2053489e572)
